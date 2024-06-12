@@ -16,7 +16,7 @@ import (
 	"os/exec"
 	"strings"
 
-	"github.com/hashicorp/terraform-exec/internal/version"
+	"github.com/breneckd/terraform-exec/internal/version"
 )
 
 const (

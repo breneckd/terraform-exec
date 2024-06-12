@@ -9,7 +9,7 @@ import (
 
 	"github.com/hashicorp/go-version"
 
-	"github.com/hashicorp/terraform-exec/tfexec"
+	"github.com/breneckd/terraform-exec/tfexec"
 )
 
 func TestStatePull(t *testing.T) {

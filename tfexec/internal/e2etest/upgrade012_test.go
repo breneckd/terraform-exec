@@ -10,8 +10,8 @@ import (
 
 	"github.com/hashicorp/go-version"
 
-	"github.com/hashicorp/terraform-exec/tfexec"
-	"github.com/hashicorp/terraform-exec/tfexec/internal/testutil"
+	"github.com/breneckd/terraform-exec/tfexec"
+	"github.com/breneckd/terraform-exec/tfexec/internal/testutil"
 )
 
 func TestUpgrade012(t *testing.T) {
